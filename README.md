@@ -1,4 +1,4 @@
-<h1>Olá!, Eu me chamo <a href="https://github.com/Defcon27">Antonio Lacerda</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Olá!, Eu me chamo <a href="https://github.com/AntLacerda">Antonio Lacerda</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -28,12 +28,11 @@ Eu sou **Analista e Desenvolvedor de sistemas formado pelo Instituto Federal da 
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 
 
 
-### 🚀 Quick Stats
+### 🚀 Estatísticas Rápidas
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
 <!-- <img width="340" height="155" align="center" 
